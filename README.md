@@ -8,6 +8,9 @@ Daniel Duque</br></br>
 Enlace video: https://www.youtube.com/watch?v=jrPXW-PpDG4
 
 </br></br>
+Revisar notebook Taller_1_Gestión_de_Datos.ipynb para todo el desarrollo. 
+
+</br></br>
 Puntos a Desarrollar
 </br></br>
 1. Seleccione al menos 4 conjuntos de datos y realice un perfilamiento de cada uno. Describa los hallazgos encontrados en cada conjunto de datos. No
@@ -19,6 +22,17 @@ Si no evidencia ningún problema de calidad de datos, también mencionelo.
 2.1 ¿Cuáles han sido los departamentos (TOP 3) más afectados en
 términos de cantidad de delitos cometidos en los últimos 5 años?
 </br></br>
+
+<b>Accidentes de transito</b>
+
+<b>Hurto</b>
+
+<b>Violencia Intrafamiliar</b>
+
+<b>Delitos sexuales</b>
+
+
+
 2.2 Para los casos en los que aplique, ¿cuál ha sido el arma o medio
 más común para cometer el delito?
 </br></br>
