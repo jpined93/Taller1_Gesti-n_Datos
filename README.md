@@ -145,6 +145,8 @@ En este archivo puede encontrar la población por departamento para el año
 2018. Asuma que la población no ha cambiado con el paso de los años.
 
 </br></br>
+
+</br></br>
 4. A partir de los conjuntos de datos seleccionados, construya un único
 dataset que integre la totalidad de los delitos ocurridos por departamento y
 municipio. Muestre los valores normalizados por cantidad de habitantes
