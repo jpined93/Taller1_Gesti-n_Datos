@@ -146,6 +146,11 @@ En este archivo puede encontrar la población por departamento para el año
 
 </br></br>
 
+Nos encontramos que los departamentos con mas hurtos son
+"HUILA","PUTUMAYO","CASANARE","SANTANDER","BOYACA" por 10000 habitantes,
+después de visualizar la  gráfica nos damos cuenta que los datos van decreciendo
+progresivamente y que Casanare en particular ocupa el primer puesto para enero 2021
+
 </br></br>
 4. A partir de los conjuntos de datos seleccionados, construya un único
 dataset que integre la totalidad de los delitos ocurridos por departamento y
